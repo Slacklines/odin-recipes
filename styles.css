@@ -10,3 +10,24 @@ img {
     height: 300;
     width: auto;
 }
+
+.nolist li{
+    list-style: none;
+}
+
+li a{
+    display: block;
+    background-color: brown;
+    padding: 20px;
+    margin: 20px;
+    margin-left: -30px;
+    width: 175px;
+    border-radius: 10px;
+    list-style: none;
+} 
+
+ol li{
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
